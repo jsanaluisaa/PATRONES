@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BUILDER/ConstructorDocumentacionVehiculoHtml.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/FormHtmlImpl.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/Usuario.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/Usuario.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMPOSITE/EmpresaMadre.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMAND/Catalogo.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMPOSITE/Empresa.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/Documento.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/DECORATOR/MarcaDecorador.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/FormularioMatriculacion.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/DECORATOR/ComponenteGraficoVehiculo.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMAND/Vehiculo.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/ClienteCredito.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMPOSITE/Usuario.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/ADAPTER/Documento.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/ADAPTER/ComponentePdf.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/SolicitudMatriculacion.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/DECORATOR/Decorador.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/PedidoContado.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/DECORATOR/VistaCatalogo.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/Documentacion.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/SINGLETON/TestComercial.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/DocumentacionCliente.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/Cliente.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/DocumentacionEnBlanco.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/ADAPTER/ServidorWeb.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/ADAPTER/DocumentoHtml.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMAND/SolicitudRebaja.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMAND/Usuario.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/Pedido.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/FormAppletImpl.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/FormularioMatriculacionPortugal.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/OrdenDePedido.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/ADAPTER/DocumentoPdf.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/ClienteContado.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/PROTOTYPE/CertificadoCesion.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/DECORATOR/ModeloDecorador.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/SINGLETON/Comercial.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/FormularioImpl.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/DECORATOR/VistaVehiculo.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/Usuario.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/BRIDGE/FormularioMatriculacionEspaña.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/COMPOSITE/EmpresaSinFilial.java</file>
+            <file>file:/C:/Users/PXNDX/Documents/NetBeansProjects/Patrones/src/FACTORY_METHOD/PedidoCredito.java</file>
+        </group>
+    </open-files>
+</project-private>
